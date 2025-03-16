@@ -16,7 +16,7 @@ Scripts are found in
 - /OCCAMS_Barretts_clustering
 - /Combined_classification
 
-*For reference for the likelihood method approach, please refer to https://doi.org/10.1186/s13073-023-01239-7
+*For reference for the likelihood method approach, please refer to https://doi.org/10.1186/s13073-023-01239-7*
 
 ### Downstream mutational signature and genomic analyses
 Scripts are found in 
