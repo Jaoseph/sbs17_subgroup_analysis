@@ -1,6 +1,6 @@
 # README
 
-## Author: Jao Lok Chong, UCL
+### Author: Jao Lok Chong, UCL
 
 ## Description
 A repository containing the workflow used for assigning single based substitution 17a and 17b subgroups to Esophageal Adenocarcinoma samples using a likelihood based mutational signature appraoch, followed by downstream genomic, transcriptomic, and clinical analyses. 
