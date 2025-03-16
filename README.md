@@ -5,6 +5,10 @@
 ## Description
 A repository containing the workflow used for assigning single based substitution 17a and 17b subgroups to Esophageal Adenocarcinoma samples using a likelihood based mutational signature appraoch, followed by downstream genomic, transcriptomic, and clinical analyses. 
 
+## R Packages and versions
+Operating system(s) used: Unix (Linux, Mac OS) Programming Language: R 4.3.2.
+The R packages and their respective versions will be locked within the renv.lock file.
+
 ## Data
 Reference data used for the analysis will be located within the /data folder.
 
